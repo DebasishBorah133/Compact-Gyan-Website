@@ -1,0 +1,67 @@
+#logo-img{
+    width:75px ; 
+    height:75px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.square{
+    width:100%;
+    height:60px;
+    background-color: rgb(1,119,193);
+    /* top:0;
+    left:0; */
+
+}
+
+.carosal-img{
+    width: 1000px;
+    height: 500px;
+}
+
+#extra{
+    display: flex;
+    justify-content: center;
+}
+#extra img{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 10%;
+}
+
+#video1{
+    display: flex;
+    justify-content: center;
+}
+
+#video1 iframe{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 50%;
+}
+
+#video2{
+    display: flex;
+    justify-content: center;
+}
+#video2 iframe{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 90%;
+}
+
+.end{
+    width:100%;
+    height: 30px;
+    display: inline-block;
+    background-color: rgb(1,119,193);
+    font-weight: 500;
+    font-size: large;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
